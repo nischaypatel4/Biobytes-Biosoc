@@ -1,5 +1,4 @@
-## Submit Week 5 Assignments Folder containing files here 
-**Folder Name convention** : RollNumber_FirstName_Week No. <br>
-Ex : 220721_Nischay_Week5 <br>
-**File Name convention** : RollNumber_Filename <br>
-Ex : 220721_Numpy
+## Week 5 learnings:
+
+- Explored Unsupervised learning using k-means clustering on ames dataset and understanding the maths behind it
+- Explored dependency or shared information between two variables using Mutual Information(MI) score

@@ -1,5 +1,9 @@
-## Submit Week 4 Assignments Folder containing files here 
-**Folder Name convention** : RollNumber_FirstName_Week No. <br>
-Ex : 220721_Nischay_Week4 <br>
-**File Name convention** : RollNumber_Filename <br>
-Ex : 220721_Numpy
+## Week 4 learnings:  
+### 1.) Handling Categorical Values:
+- Dropping Categorical Columns
+- Ordinal Encoding
+- One Hot Encoding
+
+### 2.) Handling Missing Values:
+- Dropping Missing values(rows/columns)
+- Imputations
